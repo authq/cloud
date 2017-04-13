@@ -1,6 +1,6 @@
-### Docker Mirror
+### Docker Hub Registry Mirror
 Unfortounatly Docker Hub is not available in iran.
-You can use our hight-speed docker-hub cache mirror service for your docker hosts.
+You can use our hight-speed Docker Hub mirror for your docker daemon.
 
 #### Usage
 Edit `/etc/docker/daemon.json` file (or create new one if not exists)
