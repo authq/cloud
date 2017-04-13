@@ -8,7 +8,7 @@ such as image registry and mirrors.
 
 - [Docker Hub Registry Mirror](docs/docker.md)
 
-- [NPM Registry Mirror](docks/npm.md)
+- [NPM Registry Mirror](docs/npm.md)
 
 - ... More coming soon!
 
