@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 .site-nav {
-    float: left;
+    float: left !important;
 }
