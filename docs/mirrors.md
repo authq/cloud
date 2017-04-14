@@ -14,7 +14,7 @@ This service is specially useful for using in CI/CD environments.
 Add following line to `.npmrc`:
 
 ```ini
-registry=http://npm.cloud.aut.ac.ir
+registry=https://npm.cloud.aut.ac.ir
 ```
 
 ## APT Mirror
