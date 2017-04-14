@@ -6,11 +6,7 @@ such as image registry and mirrors.
 
 ## Public Services
 
-- [Docker Hub Registry Mirror](docs/docker.md)
-
-- [NPM Registry Mirror](docs/npm.md)
-
-- ... More coming soon!
+- [Mirrors](docs/mirrors.md)
 
 ## Suggestions
 Feel free [opening issues](https://github.com/authq/cloud/issues/new) and sharing your ideas.
