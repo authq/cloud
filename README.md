@@ -8,6 +8,9 @@ such as image registry and mirrors.
 
 - [Mirrors](docs/mirrors.md)
 
+- [Downloads](http://downloads.cloud.aut.ac.ir)
+    - Docker binary downloads
+
 ## Suggestions
 Feel free [opening issues](https://github.com/authq/cloud/issues/new) and sharing your ideas.
 Please keep note that (at least for now) we have not any plans to provide
